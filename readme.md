@@ -36,7 +36,7 @@ Welcome to **Check Your Luck**, a simple yet entertaining dice game that pits tw
    ```
 
 ## Preview 📸
-![Check Your Luck Screenshot](./screenshot.png)  
+![Check Your Luck Screenshot](./screenshot.jpeg)  
 *Example screenshot of the dice game interface*
 
 ## Why This Project? 🤔
