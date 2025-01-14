@@ -45,7 +45,7 @@ This project demonstrates:
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ## License 📜
-This project is licensed under the [CC Attribution License](https://creativecommons.org/licenses/by/4.0/).
+As a fun project, this is licensed under the [CC Attribution License](https://creativecommons.org/licenses/by/4.0/). You can copy this, modify this, run this, redistribute this all long as you give proper attribution to the code you copied.
 
 ## Author 👨‍💻
 - **Dipankar Mitra**
