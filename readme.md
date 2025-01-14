@@ -35,10 +35,6 @@ Welcome to **Check Your Luck**, a simple yet entertaining dice game that pits tw
    open index.html
    ```
 
-## Preview 📸
-![Check Your Luck Screenshot](./screenshot.jpeg)  
-*Example screenshot of the dice game interface*
-
 ## Why This Project? 🤔
 This project demonstrates:
 - The use of **JavaScript** for dynamic interactivity.
