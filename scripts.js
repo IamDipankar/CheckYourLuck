@@ -39,3 +39,12 @@ function rollDice(){
 
     document.querySelector("#d2 img").setAttribute("src", "./images/dice" + player2 + ".png");
 }
+
+// let spaceKey = false;
+// document.addEventListener("keydown", (event) =>{
+//     if(event.key === " ") spaceKey = true;
+// });
+
+document.addEventListener("keyup", (event) => {
+    if(event.key === " ") rollDice();
+});
