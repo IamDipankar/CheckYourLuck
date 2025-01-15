@@ -10,9 +10,7 @@ function reset(){
 
 
 document.addEventListener("keydown", (event) => {
-    if (event.altKey){
-        if (event.key === "r" || event.key === "R") {
-            reset();
-        }
+    if (event.key === "r" || event.key === "R") {
+        reset();
     }
 });
