@@ -3,7 +3,7 @@
 Welcome to **Check Your Luck**, a simple yet entertaining dice game that pits two imaginary players against each other. The player with the higher dice roll wins! This project is a minimalist implementation using HTML, CSS, and JavaScript, without relying on any external frameworks or libraries.
 
 ## Live Demo 🌐
-- [Play Check Your Luck here!](https://iamdipankar.github.io/CheckYourLuck/)
+- [Play Check Your Luck here!](https://iamdipankar.github.io/CheckYourLuck/game.html)
 
 ## Features ✨
 - **Simple Gameplay**: Click a button to roll the dice for both players.
